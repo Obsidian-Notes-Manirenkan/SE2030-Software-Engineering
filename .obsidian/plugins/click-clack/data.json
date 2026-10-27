@@ -1,0 +1,16 @@
+{
+  "version": "version1",
+  "enabled": true,
+  "activeScheme": {
+    "id": "click-keyboard",
+    "caption": "Click keyboard",
+    "sounds": {
+      "key": ".obsidian/plugins/click-clack/resources/click-keyboard/key.wav",
+      "key2": ".obsidian/plugins/click-clack/resources/click-keyboard/key2.wav",
+      "space": ".obsidian/plugins/click-clack/resources/click-keyboard/space.wav",
+      "enter": ".obsidian/plugins/click-clack/resources/click-keyboard/enter.wav",
+      "delete": ".obsidian/plugins/click-clack/resources/click-keyboard/delete.wav"
+    }
+  },
+  "volumn": 100
+}

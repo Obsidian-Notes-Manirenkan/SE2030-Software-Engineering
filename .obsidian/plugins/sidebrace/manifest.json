@@ -1,0 +1,10 @@
+{
+	"id": "sidebrace",
+	"name": "SideBrace",
+	"version": "0.1.1",
+	"minAppVersion": "1.4.0",
+	"description": "Group a few lines of related text with a large curly brace and a side note, using familiar callout syntax (> [!brace]).",
+	"author": "Henry Lo",
+	"authorUrl": "",
+	"isDesktopOnly": false
+}

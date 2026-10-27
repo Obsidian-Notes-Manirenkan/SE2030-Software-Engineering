@@ -1,0 +1,14 @@
+{
+  "cssTheme": "Primary",
+  "interfaceFontFamily": "ELEGANT TYPEWRITER",
+  "textFontFamily": "ELEGANT TYPEWRITER,Kalaham",
+  "monospaceFontFamily": "ELEGANT TYPEWRITER",
+  "enabledCssSnippets": [
+    "note-title",
+    "sidebrace",
+    "bible-callout",
+    "canvas-arrow"
+  ],
+  "baseFontSizeAction": false,
+  "nativeMenus": false
+}

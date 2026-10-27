@@ -1,0 +1,253 @@
+{
+  "main": {
+    "id": "2d4b5b1855f3ccfd",
+    "type": "split",
+    "children": [
+      {
+        "id": "3b46f477d4c0faef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2ca44f1cc8ce4b4d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "eb5e1cb57285ae57",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a7271bc6f4a6585",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "155e78238121c612",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "bb9028e92c5949b3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#mainPage",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e559714e2193476a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6b2aaf4bc5cb7344",
+    "type": "split",
+    "children": [
+      {
+        "id": "de819e74f8802e0d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "26fdd6b18e6435bc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Books.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "868591924cc8585c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Hi.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "696ef5625c94141d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4d49a6175a39aeb9",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "5b24861beccbf89c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Hi.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "1bdaf17c902e7712",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "Uriah.md"
+              },
+              "icon": "lucide-file-signature",
+              "title": "Footnotes"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 387.4000244140625,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "workspaces:Manage workspace layouts": false,
+      "terminal:Open terminal": false
+    }
+  },
+  "active": "2ca44f1cc8ce4b4d",
+  "lastOpenFiles": [
+    "~$Reference Sheet (SE).tmp",
+    "Lecture/Lecture 06 (Sequence Diagram).pdf",
+    "se lec 3.pdf",
+    "Reference Sheet.pdf",
+    "Lecture/Lecture 04 (Use Case Diagram).pdf",
+    "Software Engineering - Ian Sommerville.pdf",
+    "Lecture/Unconfirmed 954120.crdownload",
+    "Lecture",
+    "New folder",
+    "Technologies to use when developing the website.md",
+    "Todo.md",
+    "Ideaboard.canvas",
+    "Tips for designing a portfolio website.md",
+    "விண்வெளி நாயகா.md",
+    "Hello.md",
+    "Images/Pasted image 20261009171411.png",
+    "Images/Color Hunt Palette faf3e1f5e7c6fa8112222222.png",
+    "Used Technologies.md",
+    "file:C:/Users/LENOVO/Downloads/Project Structure.md",
+    "Images/Pasted image 20261008155345.png",
+    "Images/Pasted image 20261008154444.png",
+    "Images/Pasted image 20261008154428.png",
+    "Images/Pasted image 20261008153906.png",
+    "Images/Pasted image 20261008153026.png",
+    "Images/Pasted image 20261008152716.png",
+    "Frontend.md",
+    "Images/Pasted image 20261008152559.png",
+    "Images",
+    "2026-10-08.md",
+    "Discussion Page.md",
+    "Requirements.md",
+    "Technologies Used.md",
+    "Matthew.md",
+    "Uriah.md",
+    "Images/Pasted image 20261007213657.png",
+    "Matthew - Family Tree.canvas",
+    "Charted Roots/People/Abraham.md",
+    "Charted Roots/People",
+    "Family Tree.canvas",
+    "Books.md",
+    "Gemini.md",
+    "Genesis.md",
+    "file:E:/Documents/English/Types of Sentences.md",
+    "Hi.md",
+    "hi.md",
+    "Word-Smith/ws-structure.md",
+    "Word-Smith/ws-settings.md",
+    "Welcome.md"
+  ]
+}

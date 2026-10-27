@@ -1,0 +1,7 @@
+/* Change note title color */
+.inline-title {
+	color: #daa464;
+	font-size: 2.2em;
+	border-bottom: 1px solid #6657463e;
+	padding-bottom: 12px;
+}

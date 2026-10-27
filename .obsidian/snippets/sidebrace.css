@@ -1,0 +1,7 @@
+.sidebrace-container {
+	--sidebrace-color: #ea4337ff; /* brace stroke (default: theme's --color-green) */
+	--sidebrace-stroke-width: 2.5; /* brace line width */
+	--sidebrace-width: 1.5em; /* brace column width */
+	--sidebrace-label-color: #e8d8c4; /* label text (default: --text-muted) */
+	--sidebrace-label-size: 1em; /* label font size */
+}

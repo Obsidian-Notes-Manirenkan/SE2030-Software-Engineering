@@ -1,0 +1,9 @@
+/* Canvas connection line */
+.canvas-edges path.canvas-display-path {
+    stroke: #D8C6A5 !important;
+}
+
+/* Canvas arrowhead */
+.canvas-edges polygon.canvas-path-end {
+    fill: #D8C6A5 !important;
+}

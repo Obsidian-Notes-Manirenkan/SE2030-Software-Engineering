@@ -1,0 +1,10 @@
+| Color                 | Hex       | Feel           |
+| --------------------- | --------- | -------------- |
+| 🥐 **Warm Cream**     | `#E8D8C4` | Soft, readable |
+| 🍯 **Dusty Gold**     | `#D8B477` | Warm accent    |
+| 🌹 **Dusty Rose**     | `#C99A9A` | Gentle pink    |
+| 🌿 **Sage**           | `#A8B59A` | Calm green     |
+| 🫐 **Dusty Blue**     | `#9DAFC0` | Cool contrast  |
+| 🪻 **Muted Lavender** | `#B5A6C8` | Subtle purple  |
+| 🍑 **Muted Peach**    | `#D7A98C` | Warm secondary |
+| 🥛 **Parchment**      | `#E4D8C8` | Vintage paper  |

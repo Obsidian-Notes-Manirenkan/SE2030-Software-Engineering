@@ -1,0 +1,70 @@
+/* SideBrace — all colors/sizes go through CSS variables so themes can override. */
+
+.sidebrace-container {
+	display: flex;
+	align-items: stretch;
+	gap: 0.6em;
+	margin: 1em 0;
+}
+
+.sidebrace-left {
+	flex-direction: row-reverse;
+}
+
+.sidebrace-content {
+	flex: 0 1 auto;
+	min-width: 0;
+}
+
+/* Left-side brace renders row-reverse: the group must pack to the left,
+   so the content (visually last) absorbs the slack instead of the label. */
+.sidebrace-left .sidebrace-content {
+	flex: 1 1 auto;
+}
+
+.sidebrace-content > :first-child {
+	margin-top: 0;
+}
+
+.sidebrace-content > :last-child {
+	margin-bottom: 0;
+}
+
+.sidebrace-brace {
+	flex: 0 0 auto;
+	position: relative;
+	width: var(--sidebrace-width, 1em);
+	align-self: stretch;
+	min-height: 0;
+}
+
+/* Absolutely positioned so the SVG's intrinsic viewBox aspect ratio can never
+   impose a minimum height; it always fills exactly the stretched track. */
+.sidebrace-brace-svg {
+	position: absolute;
+	inset: 0;
+	display: block;
+	width: 100%;
+	height: 100%;
+	overflow: visible;
+}
+
+.sidebrace-brace-svg path {
+	stroke: var(--sidebrace-color, var(--color-green, #43a047));
+	stroke-width: var(--sidebrace-stroke-width, 2.5);
+	fill: none;
+	stroke-linecap: round;
+}
+
+.sidebrace-label {
+	flex: 1 1 auto;
+	align-self: center;
+	max-width: 40%;
+	color: var(--sidebrace-label-color, var(--text-muted));
+	font-size: var(--sidebrace-label-size, 0.95em);
+}
+
+/* Mirrored layout: label sits at the far left and must not absorb slack. */
+.sidebrace-left .sidebrace-label {
+	flex: 0 1 auto;
+}
