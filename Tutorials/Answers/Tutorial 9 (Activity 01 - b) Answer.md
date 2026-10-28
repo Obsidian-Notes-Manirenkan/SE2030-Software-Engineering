@@ -32,3 +32,7 @@ The Observer pattern is ideal because:
 - Each concrete view implements `update()` and refreshes its display using the latest data from the GPS object.
 
 This is the classic Observer pattern applied to the multi-view GPS navigation system.
+
+---
+
+[[Why won't the 'Strategy Design Pattern' suits this]]

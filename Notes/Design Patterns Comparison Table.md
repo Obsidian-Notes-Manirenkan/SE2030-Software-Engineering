@@ -1,0 +1,28 @@
+Comparison of the main characteristics of **Singleton**, **Factory**, **Decorator**, **Observer**, and **Strategy** patterns.
+
+---
+
+## Comparison Table
+
+| **Characteristic**      | **Singleton**                                                                    | **Factory** (Method / Abstract)                                                      | **Decorator**                                                                         | **Observer**                                                                                               | **Strategy**                                                                                          |
+| ----------------------- | -------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
+| **Category**            | Creational                                                                       | Creational                                                                           | Structural                                                                            | Behavioral                                                                                                 | Behavioral                                                                                            |
+| **Intent**              | Ensure a class has only **one instance** and provide a global access point to it | Create objects **without specifying** the exact class of object that will be created | Add responsibilities / behavior to an object **dynamically**                          | Define a **one-to-many dependency** so that when one object changes state, all its dependents are notified | Define a family of algorithms, encapsulate each one, and make them **interchangeable**                |
+| **Main Problem Solved** | Controlling instance creation and global access                                  | Decoupling object creation from the code that uses the object                        | Extending functionality without modifying existing classes (Open/Closed Principle)    | Keeping multiple objects in sync when data changes                                                         | Selecting and switching algorithms at runtime                                                         |
+| **Key Participants**    | Singleton class (private constructor + static getInstance())                     | Creator / Factory + Product interface + Concrete Products                            | Component interface + Concrete Component + Decorator                                  | Subject (Observable) + Observer interface + Concrete Observers                                             | Context + Strategy interface + Concrete Strategies                                                    |
+| **When to Use**         | Need exactly one instance (logger, config, connection pool, etc.)                | Object creation is complex or the exact type is decided at runtime                   | Want to add features optionally and in different combinations                         | Multiple views or components need to react to data changes                                                 | Multiple ways to perform a task and you want to switch them easily                                    |
+| **Coupling**            | High (global access)                                                             | Low (client depends on interface)                                                    | Low                                                                                   | Low (loose coupling between subject and observers)                                                         | Low                                                                                                   |
+| **Extensibility**       | Low (hard to subclass)                                                           | High                                                                                 | Very High (can stack decorators)                                                      | High (easy to add new observers)                                                                           | High (easy to add new strategies)                                                                     |
+| **Typical Example**     | Logger, Database Connection Manager, Application Settings                        | Creating different types of documents, UI elements, or vehicles                      | Adding toppings to pizza, borders/scrollbars to windows, gift wrap + express delivery | GPS data updating multiple views, stock price notifying investors                                          | Different fare calculation methods (Normal, Peak, Discount), different sorting/compression algorithms |
+
+---
+
+## Quick Summary
+
+| Pattern       | One-liner Summary                                      |
+|---------------|--------------------------------------------------------|
+| **Singleton** | "Only one instance allowed"                            |
+| **Factory**   | "Let a factory decide which object to create"          |
+| **Decorator** | "Wrap an object to add extra behavior dynamically"     |
+| **Observer**  | "Notify many objects when something changes"           |
+| **Strategy**  | "Swap algorithms at runtime"                           |

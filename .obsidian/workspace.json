@@ -4,20 +4,80 @@
     "type": "split",
     "children": [
       {
-        "id": "3b46f477d4c0faef",
-        "type": "tabs",
+        "id": "015c850f4cd4c60d",
+        "type": "split",
         "children": [
           {
-            "id": "2ca44f1cc8ce4b4d",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
+            "id": "3b46f477d4c0faef",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "2ca44f1cc8ce4b4d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Why won't the 'Strategy Design Pattern' suits this.md",
+                    "mode": "preview",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Why won't the 'Strategy Design Pattern' suits this"
+                }
+              }
+            ]
+          },
+          {
+            "id": "6a79005d144bf65e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "7dbae2237898dc8d",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "terminal:terminal",
+                  "state": {
+                    "terminal:terminal": {
+                      "cwd": "C:\\Users\\LENOVO\\OneDrive\\Documents\\Studies\\SE",
+                      "focus": false,
+                      "profile": {
+                        "args": [],
+                        "environment": [],
+                        "executable": "C:\\Windows\\System32\\cmd.exe",
+                        "followTheme": true,
+                        "name": "",
+                        "platforms": {
+                          "win32": true
+                        },
+                        "pythonExecutable": "",
+                        "restoreHistory": false,
+                        "rightClickAction": "copyPaste",
+                        "successExitCodes": [
+                          "0",
+                          "SIGINT",
+                          "SIGTERM"
+                        ],
+                        "terminalOptions": {
+                          "documentOverride": null
+                        },
+                        "type": "integrated",
+                        "win32Backend": "conpty"
+                      },
+                      "profileSourceId": "win32IntegratedDefault",
+                      "serial": null,
+                      "userTitle": ""
+                    }
+                  },
+                  "pinned": true,
+                  "icon": "terminal",
+                  "title": "C:\\Windows\\System32\\cmd.exe"
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -79,7 +139,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "6b2aaf4bc5cb7344",
@@ -199,8 +260,15 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "2ca44f1cc8ce4b4d",
+  "active": "7dbae2237898dc8d",
   "lastOpenFiles": [
+    "Why won't the 'Strategy Design Pattern' suits this.md",
+    "Tutorials/Answers/Tutorial 9 (Activity 01 - b) Answer.md",
+    "Notes/Design Patterns Comparison Table.md",
+    "Notes/Unconfirmed 773056.crdownload",
+    "Instructions for Creating .md files.md",
+    "Images/Pasted image 20261028131418.png",
+    "Images",
     "~$Reference Sheet (SE).tmp",
     "Lecture/Lecture 06 (Sequence Diagram).pdf",
     "se lec 3.pdf",
@@ -209,7 +277,6 @@
     "Software Engineering - Ian Sommerville.pdf",
     "Lecture/Unconfirmed 954120.crdownload",
     "Lecture",
-    "New folder",
     "Technologies to use when developing the website.md",
     "Todo.md",
     "Ideaboard.canvas",
@@ -228,17 +295,14 @@
     "Images/Pasted image 20261008152716.png",
     "Frontend.md",
     "Images/Pasted image 20261008152559.png",
-    "Images",
     "2026-10-08.md",
     "Discussion Page.md",
     "Requirements.md",
     "Technologies Used.md",
     "Matthew.md",
     "Uriah.md",
-    "Images/Pasted image 20261007213657.png",
     "Matthew - Family Tree.canvas",
     "Charted Roots/People/Abraham.md",
-    "Charted Roots/People",
     "Family Tree.canvas",
     "Books.md",
     "Gemini.md",
@@ -246,8 +310,6 @@
     "file:E:/Documents/English/Types of Sentences.md",
     "Hi.md",
     "hi.md",
-    "Word-Smith/ws-structure.md",
-    "Word-Smith/ws-settings.md",
-    "Welcome.md"
+    "Word-Smith/ws-structure.md"
   ]
 }
