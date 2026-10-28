@@ -35,4 +35,4 @@ This is the classic Observer pattern applied to the multi-view GPS navigation sy
 
 ---
 
-[[Why won't the 'Strategy Design Pattern' suits this]]
+[[Why won't the 'Strategy Design Pattern' fit this]]
