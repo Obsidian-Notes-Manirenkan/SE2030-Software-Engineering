@@ -1,8 +1,8 @@
 {
   "cssTheme": "Primary",
-  "interfaceFontFamily": "ELEGANT TYPEWRITER",
-  "textFontFamily": "ELEGANT TYPEWRITER,Kalaham",
-  "monospaceFontFamily": "ELEGANT TYPEWRITER",
+  "interfaceFontFamily": "",
+  "textFontFamily": "",
+  "monospaceFontFamily": "",
   "enabledCssSnippets": [
     "note-title",
     "sidebrace",
@@ -10,5 +10,6 @@
     "canvas-arrow"
   ],
   "baseFontSizeAction": false,
-  "nativeMenus": false
+  "nativeMenus": false,
+  "accentColor": ""
 }

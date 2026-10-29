@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Instructions for Creating .md files.md",
-                "mode": "source",
+                "file": "Tutorials/Answers/Tutorial 9 (Self-Study Activity 02) Answer.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Instructions for Creating .md files"
+              "title": "Tutorial 9 (Self-Study Activity 02) Answer"
             }
           }
         ]
@@ -83,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 323.6000061035156,
     "collapsed": true
   },
   "right": {
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Instructions for Creating .md files.md",
+                "file": "Tutorials/Answers/Tutorial 9 (Self-Study Activity 02) Answer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Instructions for Creating .md files.md",
+                "file": "Tutorials/Answers/Tutorial 9 (Self-Study Activity 02) Answer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -177,7 +177,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Instructions for Creating .md files.md"
+                "file": "Tutorials/Answers/Tutorial 9 (Self-Study Activity 02) Answer.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -205,21 +205,26 @@
   },
   "active": "2ca44f1cc8ce4b4d",
   "lastOpenFiles": [
-    "Tutorials/Answers/Tutorial 9 (Activity 01 - b) Answer.md",
+    "Tutorials/Answers/Tutorial 9 (Activity 05) Answer.md",
+    "Tutorials/Answers/Tutorial 9 (Self-Study Activity 02) Answer.md",
+    "Tutorials/Answers/Unconfirmed 888843.crdownload",
+    "Tutorials/Answers/Tutorial 9 (Self-Study Activity 01) Answer.md",
+    "Tutorials/Answers/Unconfirmed 887712.crdownload",
+    "Tutorials/Answers/Tutorial 9 (Activity 06) Answer.md",
+    "Tutorials/Answers/Unconfirmed 109134.crdownload",
     "~$Reference Sheet (SE).tmp",
-    "Why won't the 'Strategy Design Pattern' fit this.md",
+    "Tutorials/Answers/Why's Decorator Pattern is not suitable for 'Activity 04'.md",
+    "Tutorials/Answers/Unconfirmed 258165.crdownload",
+    "Tutorials/Answers/Tutorial 9 (Activity 01 - b) Answer.md",
+    "Instructions for Creating .md files.md",
+    "Tutorials/Answers/Why won't the 'Strategy Design Pattern' fit this.md",
     "Notes/Design Patterns Comparison Table.md",
     "Notes/Unconfirmed 773056.crdownload",
-    "Instructions for Creating .md files.md",
     "Images/Pasted image 20261028131418.png",
     "Images",
     "Lecture/Lecture 06 (Sequence Diagram).pdf",
     "se lec 3.pdf",
     "Reference Sheet.pdf",
-    "Lecture/Lecture 04 (Use Case Diagram).pdf",
-    "Software Engineering - Ian Sommerville.pdf",
-    "Lecture/Unconfirmed 954120.crdownload",
-    "Lecture",
     "Technologies to use when developing the website.md",
     "Todo.md",
     "Ideaboard.canvas",
@@ -248,10 +253,6 @@
     "Charted Roots/People/Abraham.md",
     "Family Tree.canvas",
     "Books.md",
-    "Gemini.md",
-    "Genesis.md",
-    "file:E:/Documents/English/Types of Sentences.md",
-    "Hi.md",
-    "hi.md"
+    "Gemini.md"
   ]
 }
