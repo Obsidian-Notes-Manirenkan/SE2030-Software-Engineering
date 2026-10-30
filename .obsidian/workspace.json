@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "2023 Final Exam (Question 1) Answer"
             }
+          },
+          {
+            "id": "a7ed36d601029de2",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Lecture/Lecture 04 (Use Case Diagram).pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Lecture 04 (Use Case Diagram)"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -100,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Papers/Final Past Papers/Answers/2023 Final Exam (Question 1) Answer.md",
+                "file": "Lecture/Lecture 04 (Use Case Diagram).pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Papers/Final Past Papers/Answers/2023 Final Exam (Question 1) Answer.md",
+                "file": "Lecture/Lecture 04 (Use Case Diagram).pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -177,7 +190,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Papers/Final Past Papers/Answers/2023 Final Exam (Question 1) Answer.md"
+                "file": "Lecture/Lecture 04 (Use Case Diagram).pdf"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -203,14 +216,21 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "2ca44f1cc8ce4b4d",
+  "active": "a7ed36d601029de2",
   "lastOpenFiles": [
+    "~$Reference Sheet (SE).tmp",
+    "Lecture/Lecture 05 (Activity Diagram).pdf",
+    "Notes/Picture2.png",
+    "Notes/Picture1.png",
+    "Todo.md",
+    "Papers/Final Past Papers/Answers/2023 Final Exam (Question 1) Answer.md",
+    "Lecture/Lecture 07 (State Machine Diagram).pdf",
+    "Papers/Final Past Papers/2018 (2).pdf",
     "Notes/Picture9.png",
     "Notes/Picture8.png",
     "Notes/Picture7.png",
     "Notes/Picture6.png",
     "Notes/Picture5.png",
-    "~$Reference Sheet (SE).tmp",
     "Papers/Final Past Papers/2018.pdf",
     "Papers/Final Past Papers/2025 (May-June).pdf",
     "Papers/Final Past Papers/2024 (November).pdf",
@@ -218,14 +238,11 @@
     "Papers/Final Past Papers/2022 (November).pdf",
     "Papers/Final Past Papers/2019.pdf",
     "Papers/Final Past Papers/2018 (October).pdf",
-    "Papers/Final Past Papers/2018 October.pdf",
-    "Papers/Final Past Papers/2023 (November).pdf",
     "Notes/Picture4.png",
     "Notes/Picture3.png",
     "Notes/Order of Events When Leaving a State.md",
     "Papers/Final Past Papers/Answers/2023 Final Exam (Question 3) Answer.md",
     "Notes/Orthogonal and Simple Composite States.md",
-    "Papers/Final Past Papers/Answers/2023 Final Exam (Question 1) Answer.md",
     "Papers/Final Past Papers/pastpapers_se/Answers/2023 Final Exam (Question 1) Answer.md",
     "Tutorials/Answers/Tutorial 9 (Self-Study Activity 02) Answer.md",
     "Tutorials/Answers/Tutorial 9 (Activity 05) Answer.md",
@@ -238,16 +255,12 @@
     "Notes/Design Patterns Comparison Table.md",
     "Images/Pasted image 20261028131418.png",
     "Technologies to use when developing the website.md",
-    "Todo.md",
     "Ideaboard.canvas",
     "Tips for designing a portfolio website.md",
     "விண்வெளி நாயகா.md",
     "Hello.md",
-    "Images/Pasted image 20261009171411.png",
-    "Images/Color Hunt Palette faf3e1f5e7c6fa8112222222.png",
     "Used Technologies.md",
     "file:C:/Users/LENOVO/Downloads/Project Structure.md",
-    "Images/Pasted image 20261008155345.png",
     "Frontend.md",
     "2026-10-08.md",
     "Discussion Page.md",
