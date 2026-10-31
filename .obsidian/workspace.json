@@ -25,12 +25,14 @@
             "id": "a7ed36d601029de2",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Lecture/Lecture 04 (Use Case Diagram).pdf"
+                "file": "Todo.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Lecture 04 (Use Case Diagram)"
+              "icon": "lucide-file",
+              "title": "Todo"
             }
           }
         ],
@@ -113,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture/Lecture 04 (Use Case Diagram).pdf",
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture/Lecture 04 (Use Case Diagram).pdf",
+                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -190,7 +192,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Lecture/Lecture 04 (Use Case Diagram).pdf"
+                "file": "Todo.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -218,6 +220,7 @@
   },
   "active": "a7ed36d601029de2",
   "lastOpenFiles": [
+    "Lecture/Lecture 04 (Use Case Diagram).pdf",
     "~$Reference Sheet (SE).tmp",
     "Lecture/Lecture 05 (Activity Diagram).pdf",
     "Notes/Picture2.png",
@@ -237,7 +240,6 @@
     "Papers/Final Past Papers/2024 (May-June).pdf",
     "Papers/Final Past Papers/2022 (November).pdf",
     "Papers/Final Past Papers/2019.pdf",
-    "Papers/Final Past Papers/2018 (October).pdf",
     "Notes/Picture4.png",
     "Notes/Picture3.png",
     "Notes/Order of Events When Leaving a State.md",

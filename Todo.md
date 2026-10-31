@@ -1,4 +1,4 @@
-- [ ] Add implements, extends arrows
+- [x] Add implements, extends arrows
 - [ ] Hidden decomposition indicator in State-Machine Diagram
-- [ ] Activity Diagram images
+- [x] Activity Diagram images
 - [ ] Boundary value & Equivalence partitioning
